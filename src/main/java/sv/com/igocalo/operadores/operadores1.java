@@ -18,5 +18,12 @@ public class operadores1 {
             System.out.println("Bits en el tipo short:" + Short.BYTES);
             System.out.println("Bits en el tipo short:" + Short.MIN_VALUE);
             System.out.println("Bits en el tipo short:" + Short.MAX_VALUE);
+            
+            int intVar = 5000;
+            System.out.println("int var = " + intVar);
+            System.out.println("Bits en el tipo int:" + Integer.SIZE);
+            System.out.println("Bits en el tipo int:" + Integer.BYTES);
+            System.out.println("Bits en el tipo int:" + Integer.MIN_VALUE);
+            System.out.println("Bits en el tipo int:" + Integer.MAX_VALUE);
 }
 }
